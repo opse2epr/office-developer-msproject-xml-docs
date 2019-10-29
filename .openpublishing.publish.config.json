@@ -6,20 +6,6 @@
       "build_output_subfolder": "e2eppe-officedocs-dev-project-xml-data-interchange",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "officedocs-dev-project-xml-data-interchange",
-      "build_source_folder": "project-xml-data-interchange",
-      "build_output_subfolder": "officedocs-dev-project-xml-data-interchange",
-      "locale": "en-us",
-      "monikers": [],
       "moniker_ranges": [
         ">= project-client-2007 || project-client-odc"
       ],
